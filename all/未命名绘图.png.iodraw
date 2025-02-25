@@ -119,10 +119,10 @@
           <mxGeometry x="330" y="690" width="20" height="310" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-140" value="静止目标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="121.65999999999998" y="702.75" width="200" height="40" as="geometry" />
+          <mxGeometry x="121.65999999999998" y="750" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-141" value="横向距离" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="121.65999999999998" y="775" width="200" height="40" as="geometry" />
+          <mxGeometry x="121.65999999999998" y="805" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-142" value="速度阈值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="121.65999999999998" y="857.25" width="200" height="40" as="geometry" />
