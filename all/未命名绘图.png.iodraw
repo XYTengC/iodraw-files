@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-76" value="&lt;span style=&quot;font-size: 24px&quot;&gt;图像ROI区域&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="591.66" y="1000" width="170" height="40" as="geometry" />
+          <mxGeometry x="591.67" y="1020" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BttiqDXCoNjVcKzLfqox-58" target="BttiqDXCoNjVcKzLfqox-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
