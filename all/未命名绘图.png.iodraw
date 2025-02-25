@@ -158,19 +158,19 @@
           <mxGeometry x="593.33" y="922.25" width="203.33" height="45" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-137" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#999999;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="253.92" y="810" width="20" height="310" as="geometry" />
+          <mxGeometry x="315" y="612.75" width="20" height="310" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-140" value="静止目标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="45.579999999999984" y="822.75" width="200" height="40" as="geometry" />
+          <mxGeometry x="106.65999999999998" y="625.5" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-141" value="横向距离" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="45.579999999999984" y="895" width="200" height="40" as="geometry" />
+          <mxGeometry x="106.65999999999998" y="697.75" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-142" value="速度阈值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="45.579999999999984" y="977.25" width="200" height="40" as="geometry" />
+          <mxGeometry x="106.65999999999998" y="780" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-143" value="虚假目标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="43.91999999999999" y="1060" width="200" height="40" as="geometry" />
+          <mxGeometry x="104.99999999999999" y="862.75" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
