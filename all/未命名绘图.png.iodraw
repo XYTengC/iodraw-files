@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-76" value="&lt;span style=&quot;font-size: 24px&quot;&gt;图像ROI区域&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="604.68" y="1010" width="180" height="50" as="geometry" />
+          <mxGeometry x="604.68" y="1010" width="145.32" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BttiqDXCoNjVcKzLfqox-58" target="BttiqDXCoNjVcKzLfqox-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,7 +105,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-115" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Yolo目标检测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="593.33" y="922.25" width="203.33" height="45" as="geometry" />
+          <mxGeometry x="593.33" y="922.25" width="166.67" height="45" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-137" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#999999;direction=south;" parent="1" vertex="1">
           <mxGeometry x="323.04" y="630" width="20" height="310" as="geometry" />
