@@ -140,7 +140,11 @@
           <mxGeometry x="105" y="3.5" width="94.49999999999999" height="62.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="9EeUglt0JOiKQpmNdf0h-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;No&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BttiqDXCoNjVcKzLfqox-105" target="BttiqDXCoNjVcKzLfqox-115">
-          <mxGeometry y="15" relative="1" as="geometry">
+          <mxGeometry x="-0.557" y="15" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="795" y="890" />
+              <mxPoint x="695" y="890" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
