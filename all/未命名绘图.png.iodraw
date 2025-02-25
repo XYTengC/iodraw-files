@@ -22,14 +22,6 @@
         <mxCell id="fK5geSW9iwmDSjEWxXXk-4" value="雷视关联" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="230" y="1200" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BttiqDXCoNjVcKzLfqox-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fK5geSW9iwmDSjEWxXXk-5" target="BttiqDXCoNjVcKzLfqox-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="695" y="566" />
-              <mxPoint x="640" y="566" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fK5geSW9iwmDSjEWxXXk-5" value="摄像机采集数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="596.6700000000001" y="480" width="196.66" height="62.75" as="geometry" />
         </mxCell>
@@ -56,12 +48,6 @@
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;时空对齐&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="356.67" y="590" width="443.33" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BttiqDXCoNjVcKzLfqox-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="695" y="942.25" as="sourcePoint" />
-            <mxPoint x="694.6999999999998" y="972.25" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BttiqDXCoNjVcKzLfqox-76" edge="1">
           <mxGeometry relative="1" as="geometry">
