@@ -20,7 +20,7 @@
           <mxGeometry x="356.66" y="420" width="153.34" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fK5geSW9iwmDSjEWxXXk-4" value="雷视关联" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1150" width="200" height="40" as="geometry" />
+          <mxGeometry x="320" y="1150" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fK5geSW9iwmDSjEWxXXk-5" value="摄像机采集数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="593.33" y="490" width="196.66" height="41.88" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry x="559.99" y="1110" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-86" value="&lt;font style=&quot;font-size: 24px&quot;&gt;有效目标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="439.99" y="1180" width="120" height="40" as="geometry" />
+          <mxGeometry x="439.99" y="1190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-91" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="703" y="1210" width="30" height="20" as="geometry" />
