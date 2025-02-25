@@ -16,7 +16,7 @@
         <mxCell id="fK5geSW9iwmDSjEWxXXk-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;视觉图像处理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="593.3299999999999" y="420" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fK5geSW9iwmDSjEWxXXk-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;雷达检测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fK5geSW9iwmDSjEWxXXk-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;雷达检测模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="356.66" y="420" width="153.34" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fK5geSW9iwmDSjEWxXXk-4" value="&lt;font face=&quot;Helvetica&quot;&gt;雷视关联&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
