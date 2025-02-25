@@ -22,7 +22,7 @@
         <mxCell id="fK5geSW9iwmDSjEWxXXk-4" value="&lt;font face=&quot;Helvetica&quot;&gt;雷视关联模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="280" y="1140" width="153.04" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9EeUglt0JOiKQpmNdf0h-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fK5geSW9iwmDSjEWxXXk-5" target="BttiqDXCoNjVcKzLfqox-104">
+        <mxCell id="9EeUglt0JOiKQpmNdf0h-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fK5geSW9iwmDSjEWxXXk-5" target="BttiqDXCoNjVcKzLfqox-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fK5geSW9iwmDSjEWxXXk-5" value="摄像机采集数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;arcSize=50;" parent="1" vertex="1">
