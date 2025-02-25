@@ -23,7 +23,7 @@
           <mxGeometry x="280" y="1140" width="153.04" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fK5geSW9iwmDSjEWxXXk-5" value="摄像机采集数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="590" y="540" width="184.99" height="41.88" as="geometry" />
+          <mxGeometry x="599.6899999999999" y="539.12" width="184.99" height="41.88" as="geometry" />
         </mxCell>
         <mxCell id="fK5geSW9iwmDSjEWxXXk-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;雷达采集数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358.34000000000003" y="540" width="163.34" height="41" as="geometry" />
