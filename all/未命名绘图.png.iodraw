@@ -109,18 +109,13 @@
             <mxPoint x="526.67" y="569" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BttiqDXCoNjVcKzLfqox-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BttiqDXCoNjVcKzLfqox-6" target="fK5geSW9iwmDSjEWxXXk-6" edge="1">
+        <mxCell id="BttiqDXCoNjVcKzLfqox-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="fK5geSW9iwmDSjEWxXXk-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="511" />
             </Array>
+            <mxPoint x="330" y="607.25" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BttiqDXCoNjVcKzLfqox-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="280" y="460" width="50" height="294.5" as="geometry" />
-        </mxCell>
-        <mxCell id="BttiqDXCoNjVcKzLfqox-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="426.38" width="220" height="170" as="geometry" />
         </mxCell>
         <mxCell id="BttiqDXCoNjVcKzLfqox-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="620" width="220" height="170" as="geometry" />
